@@ -1,1 +1,0 @@
-{"ID":"DataLogger#1","pathToBinFile":"https://github.com/WWillyWacker/OTAUpdates/blob/main/firmware.bin","Version":"0.2","deepSleep":"off"}
